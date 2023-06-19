@@ -25,8 +25,14 @@
 <div align="center">
   <a href="https://github.com/matheussbzp/github-readme-stats">
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=renanked&layout=compact&theme=vision-friendly-dark" />
+
   </a>
     <br>
+</div>
+<div align="center">
+
+  ![Snake animation](https://github.com/viniciusnunes137/viniciusnunes137/blob/output/github-contribution-grid-snake.svg)
+
 </div>
   <br>
 <br></div>
